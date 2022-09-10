@@ -1,0 +1,4 @@
+.block__border {
+    border: 1px solid lightgrey; 
+    border-radius: 0.5rem;
+}
